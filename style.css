@@ -25,6 +25,10 @@ header {
   margin-bottom: 0.5em;
 }
 
+.content{
+    letter-spacing: 0.1em;
+}
+
 .sub-tittle {
   font-size: 1.3em;
   font-weight: 700;
@@ -36,4 +40,13 @@ footer {
   color: white;
   text-align: center;
   padding: 1.5em 0;
+}
+
+.social img {
+  width: 2em;
+  margin-right: 0.5em;
+}
+
+.logo {
+  width: 6em;
 }
