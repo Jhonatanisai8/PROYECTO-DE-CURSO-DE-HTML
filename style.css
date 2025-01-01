@@ -18,3 +18,22 @@ header {
   background-color: steelblue;
   color: white;
 }
+
+.tittle {
+  font-size: 1.8em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+.sub-tittle {
+  font-size: 1.3em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1.5em 0;
+}
